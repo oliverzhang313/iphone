@@ -115,7 +115,7 @@ Copyright Oliver Zhang.com.cn
     line-height:30px;
     background-color:SteelBlue;
     height:350px;
-    width:70px;
+    width:100px;
     float:left;
     padding:5px; 
 }
